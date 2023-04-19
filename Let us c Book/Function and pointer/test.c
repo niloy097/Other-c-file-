@@ -1,0 +1,1 @@
+/*Define a function that receives weight of a commondity*/
